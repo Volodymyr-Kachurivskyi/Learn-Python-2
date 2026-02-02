@@ -1,1 +1,1 @@
-# Learn-Pythoh-2
+# Learn-Python-2
